@@ -1,0 +1,23 @@
+{
+  "total": 3154,
+  "duplicates_removed": 0,
+  "invalid_removed": 0,
+  "skipped_already_organized": 0,
+  "by_type": {
+    "church": 131,
+    "farm": 88,
+    "statue": 32,
+    "misc": 1323,
+    "house": 1121,
+    "ship": 46,
+    "medieval": 91,
+    "tower": 82,
+    "modern": 55,
+    "wall": 9,
+    "base": 64,
+    "castle": 75,
+    "bridge": 6,
+    "cabin": 21,
+    "fantasy": 10
+  }
+}
