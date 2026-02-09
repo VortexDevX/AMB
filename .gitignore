@@ -158,5 +158,3 @@ datasets/organized/wall/
 # Overfit test checkpoints
 checkpoints/overfit_test/
 
-# Legacy embedded repos only
-legacy/minecraft-ai-builder/
