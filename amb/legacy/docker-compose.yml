@@ -1,0 +1,139 @@
+version: '3.8'
+
+services:
+  # ===========================
+  # 1. Minecraft Server (Starts First)
+  # ===========================
+  minecraft-server:
+    image: itzg/minecraft-server:java17
+    container_name: minecraft-builder-server
+    ports:
+      - "25565:25565"
+    environment:
+      - EULA=TRUE
+      - TYPE=VANILLA
+      - VERSION=1.20.1
+      - ONLINE_MODE=FALSE
+      - SPAWN_PROTECTION=0
+      - ENABLE_COMMAND_BLOCK=true
+      - GAMEMODE=creative
+      - DIFFICULTY=peaceful
+      - ALLOW_FLIGHT=true
+      - LEVEL_TYPE=flat
+      - VIEW_DISTANCE=6
+      - SIMULATION_DISTANCE=6
+      - MAX_PLAYERS=20
+    volumes:
+      - ./minecraft-server:/data
+    restart: unless-stopped
+    networks:
+      - minecraft-builder-network
+    healthcheck:
+      test: mc-health
+      interval: 10s
+      timeout: 5s
+      retries: 30
+      start_period: 180s
+
+  # ===========================
+  # 2. Backend (FastAPI) - Starts after Minecraft Server
+  # ===========================
+  backend:
+    build:
+      context: ./minecraft-ai-builder
+      dockerfile: backend/Dockerfile
+    container_name: minecraft-builder-backend
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=sqlite+aiosqlite:///./data/minecraft_builder.db
+      - LOG_LEVEL=INFO
+      - HOST=0.0.0.0
+      - PORT=8000
+      - ALLOWED_ORIGINS=http://localhost:3000,http://localhost:8000,http://frontend:3000
+    volumes:
+      - ./minecraft-ai-builder/backend:/app
+      - backend-data:/app/data
+      - backend-logs:/app/logs
+    depends_on:
+      minecraft-server:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - minecraft-builder-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 30s
+
+  # ===========================
+  # 3. Minecraft Agent (Node.js) - Starts after Backend
+  # ===========================
+  minecraft-agent:
+    build:
+      context: ./minecraft-ai-builder/minecraft-agent
+      dockerfile: Dockerfile
+    container_name: minecraft-builder-agent
+    environment:
+      - MC_HOST=minecraft-server
+      - MC_PORT=25565
+      - MC_USERNAME=BobTheBuilder
+      - MC_VERSION=1.20.1
+      - BOT_DEBUG=true
+      - BOT_CHAT_ENABLED=true
+      - BOT_VIEW_DISTANCE=tiny
+      - WS_BACKEND_URL=ws://backend:8000/ws/agent
+      - WS_RECONNECT_INTERVAL=5000
+      - WS_MAX_RETRIES=10
+      - MAX_BLOCKS_PER_SECOND=10
+      - PLACEMENT_DELAY=100
+    volumes:
+      - ./minecraft-ai-builder/minecraft-agent:/app
+      - /app/node_modules
+      - agent-logs:/app/logs
+    depends_on:
+      backend:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - minecraft-builder-network
+    healthcheck:
+      test: ["CMD", "node", "-e", "process.exit(0)"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 30s
+
+  # ===========================
+  # 4. Frontend (Vite + React) - Starts Last
+  # ===========================
+  frontend:
+    build:
+      context: ./minecraft-ai-builder/frontend
+      dockerfile: Dockerfile
+    container_name: minecraft-builder-frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - VITE_API_URL=http://localhost:8000
+      - VITE_WS_URL=ws://localhost:8000/ws/dashboard
+    volumes:
+      - ./minecraft-ai-builder/frontend:/app
+      - /app/node_modules
+    depends_on:
+      minecraft-agent:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - minecraft-builder-network
+
+volumes:
+  backend-data:
+  backend-logs:
+  agent-logs:
+
+networks:
+  minecraft-builder-network:
+    driver: bridge

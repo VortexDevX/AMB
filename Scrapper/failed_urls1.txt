@@ -1,0 +1,1605 @@
+https://mcbuild.org/schematics/12087:billionaires-row-canturburry-lane | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15190:modular-hallway-schematics-ver-ii-with-ver-i-included | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/10738:wooden-house-small-and-cozy | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/5706:japanese-style-house-standard | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16413:iron-farm-9000-ih | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12088:birch-treecustom2 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16414:air-balloon | Error: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - performing click action
+    - click action done
+    - waiting for scheduled navigations to finish
+
+https://mcbuild.org/schematics/15195:st-basils-cathedral | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13845:medieval-building-to-transform | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/5815:the-nether-asylum-complete | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16810:minecraft-style-apartments-117 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/10744:storage---itemsorter-all-items | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18010:among-us-by-chloe-s | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16824:towncity-hall | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/10745:liebherr-ltm-1500-81 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13871:modern-medium-villamansion | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15224:arena-uhcfinal-188 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/5955:auto-farm-melon-pumpkin-sugarcane-cactus | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18012:rip-technoblade-by-chloe-s | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1682:knight-and-horse-statue | Error: Timeout 30000ms exceeded.
+=========================== logs ===========================
+"networkidle" event fired
+============================================================
+https://mcbuild.org/schematics/5999:xcptjackxs-pirate-maze | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16492:simple-enderman-farm-113-116x | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13878:massive-oak-treehouse | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18031:shrek-house-all-star-noteblock | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16507:fixed-new-updated-cobblestone-farm-works-in-113x-to-116x | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13879:i-furnished-my-barn-medieval-style | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12222:hi-business-corporation-second-design | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16834:gwen-league-of-legends | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15375:arena-shell-shockers-map-116 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18037:-77 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/6078:town-meridor | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16559:erebor-throne-room | Error: Download.save_as: canceled
+https://mcbuild.org/schematics/18043:starting-house-mansion | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13913:hatsune-miku-original-by-lizzyliz | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16843:torre-millenium-sabadell---barcelona | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/10859:rocket-airship-medium-size-modded | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12274:spawn-mdival | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18057:starting-house-small | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13928:xpfarm-best-ever | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16854:modern-fully-furn-hotelresidential-apartments | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16732:man-o-war-updated-version | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/10903:modern-house-2 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12277:mdium-mdival-house | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18063:victorian-house-with-interior-116 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13939:medieval-spawn | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href^='/download/'][href*='?k=']") to be visible
+    - waiting for" https://mcbuild.org/download/13939?k=pgfhcpghff" navigation to finish...
+
+https://mcbuild.org/schematics/16733:battleship-2-updated-version | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12278:spawn-noliamc | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18064:hotel-opal-with-interior | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13941:great-library | Error: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://mcbuild.org/schematics/13941:great-library", waiting until "load"
+
+https://mcbuild.org/schematics/16892:pokmon-center | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15617:billionaires-row-the-golden-coast | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16734:hms-vanguard-updated-version | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16926:cartography-village-building-unfurnished | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13963:tomb | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18100:awesome-modern-house-decorated | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16767:castillo-gtico | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/7027:ms-regal-princess-full-interior | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13974:wool-shed | Error: Timeout 60000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+https://mcbuild.org/schematics16787:minecraft-easiest-1-zombie-3-villager-iron-farm---220-per-hour | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18177:soccer-field | Error: Timeout 30000ms exceeded.
+=========================== logs ===========================
+"networkidle" event fired
+============================================================
+https://mcbuild.org/schematics/11023:medieval-wall-32long | Error: Timeout 60000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+https://mcbuild.org/schematics/16957:gotic-castle | Error: Timeout 60000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+https://mcbuild.org/schematics/12309:highway-part-1 | Error: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://mcbuild.org/schematics/12309:highway-part-1", waiting until "load"
+
+https://mcbuild.org/schematics/1569:redstone-mine-bombbreakdiamonds | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13986:toss-a-coin-to-your-witcher-on-note-blocks | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16819:zero-two-02 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1230:wheel-of-h | Error: Timeout 30000ms exceeded.
+=========================== logs ===========================
+"networkidle" event fired
+============================================================
+https://mcbuild.org/schematics/16971:housewoods | Error: Timeout 60000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+https://mcbuild.org/schematics/18192:20v-gold-farm | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12313:mushroom-tavern | Error: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://mcbuild.org/schematics/12313:mushroom-tavern", waiting until "load"
+
+https://mcbuild.org/schematics/16986:mountain-for-various-uses-hollow | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/14027:agrabah-aka-sultans-palace | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/11098:underground-bartavern | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/7304:town-schnipfingen | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15725:guitar-1164 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12314:highway-part-2 | Error: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://mcbuild.org/schematics/12314:highway-part-2", waiting until "load"
+
+https://mcbuild.org/schematics/16979:iron-farm-very-simple | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12316:medieval-house-by-cherepru26 | Error: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://mcbuild.org/schematics/12316:medieval-house-by-cherepru26", waiting until "load"
+
+https://mcbuild.org/schematics/15728:the-pit-halo-map-116 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1110:modern-house-5 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16980:cobble-farm-very-easy | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/14059:entrance1-2 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/7368:at-st-hypixel | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12323:city | Error: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://mcbuild.org/schematics/12323:city", waiting until "load"
+
+https://mcbuild.org/schematics/14061:rieiege-schematica | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18267:ort | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12326:wooden-house | Error: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://mcbuild.org/schematics/12326:wooden-house", waiting until "load"
+
+https://mcbuild.org/schematics/15732:iss-by-mrkenry-1122 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/11138:oak-cottage-starter-house | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12328:blank-floating-island | Error: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://mcbuild.org/schematics/12328:blank-floating-island", waiting until "load"
+
+https://mcbuild.org/schematics/14093:woodcutters-cottage | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17180:small-15x13-survival-house | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/7509:iztacchuatl | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18293:tree-farm-119 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15761:sailboats-model2 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12330:prismarine-hub | Error: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://mcbuild.org/schematics/12330:prismarine-hub", waiting until "load"
+
+https://mcbuild.org/schematics/14096:wooden-house-1 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1118:modern-house-8 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17191:super-smelter-works-on-115x-to-117x | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12348:hub-little | Error: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://mcbuild.org/schematics/12348:hub-little", waiting until "load"
+
+https://mcbuild.org/schematics/17136:forest-95-sega-rally-1122 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1830:modern-style-house-2-164 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1234:japanese-pagoda | Error: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://mcbuild.org/schematics/1234:japanese-pagoda", waiting until "load"
+
+https://mcbuild.org/schematics/15865:house-for-survival-unfurnished | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1413:modern-apartment-building-162 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18316:industrial-megabuild-1122 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1121:modern-house-11 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/7863:town-portland | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17149:azusa-nakano-k-on | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12352:baseball-field | Error: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://mcbuild.org/schematics/12352:baseball-field", waiting until "load"
+
+https://mcbuild.org/schematics/17267:automatic-sheep-shearing-farm-litematica | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/14148:auto-farm-chicken-v20 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15883:quartz-nether-house | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12382:epictreehouse | Error: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://mcbuild.org/schematics/12382:epictreehouse", waiting until "load"
+
+https://mcbuild.org/schematics/7887:exilus-skywars-bedwars | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18322:parkgarden | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17330:dungeons-2 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17161:iikea-store-unfurnished | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/14170:mensch-gere-dich-nicht | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1122:modern-house-12 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12385:pvp-arena | Error: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://mcbuild.org/schematics/12385:pvp-arena", waiting until "load"
+
+https://mcbuild.org/schematics/15885:quartz-nether-palace | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17162:villager-warped-house-01 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12394:abandoned-town | Error: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://mcbuild.org/schematics/12394:abandoned-town", waiting until "load"
+
+https://mcbuild.org/schematics/18327:amd-x670-p-wifi-asus-prime-series | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/8046:emeralds-realistic-tree | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15901:olve-garden-salt-lake-city-utah | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17167:village-warped-house-3 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12403:giant-mecha-tank | Error: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://mcbuild.org/schematics/12403:giant-mecha-tank", waiting until "load"
+
+https://mcbuild.org/schematics/8068:temple-piazza-venezia | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1125:its-a-cow | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12404:mewmc-buildings | Error: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://mcbuild.org/schematics/12404:mewmc-buildings", waiting until "load"
+
+https://mcbuild.org/schematics/17169:woody-village-01 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15915:1164-compact-f-15-vanila | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/14247:auto-farm-5-in-1-freshdried-kelp-cactus-green-dye-bamboo-v20 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/8069:map-skywars-underwater | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17454:new-year-tree-skating-rink | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17183:sugarcanefarm-115116117 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18364:modernbuildingpalace | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/11280:korins-tower | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/14255:castle-ultimate-auto-farm-21-in-1-v20 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18375:intel-z790m-plus-d4-asus-prime-series | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17230:sega-rally-forest-95-v2-1122 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/8222:burj-khalifa-dubai-uae-updated | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15954:modern-house-1 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href^='/download/'][href*='?k=']") to be visible
+    - waiting for" https://mcbuild.org/download/15954?k=pgfhcpaccf" navigation to finish...
+
+https://mcbuild.org/schematics/14276:medieval-tavern-and-cafe-114 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18378:cathedral-fixed | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17561:sugar-cane-farm-with-minecart | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12433:maze-the-bear | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17233:medieval-house-4 | Error: Timeout 60000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+https://mcbuild.org/schematics/11328:the-blocking-dead-huge-map-schematic-512x512 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17595:selimiye-mosque-islamic-ottoman-social-complex-minecraft-turkey | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12438:113-guardian-farm-modified | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18431:1930s-sears-house | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17234:alcohol-factory-distillery | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/14319:grians-castle-with-interior | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/11331:medieval-house-property | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17606:monopoly-unfinished | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15971:modern-apartment-building | Error: Timeout 60000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+https://mcbuild.org/schematics/11332:fnaf-6-map-and-tjoc | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/8818:deadpool | Error: Timeout 60000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+https://mcbuild.org/schematics/17271:easy-chicken-cooker-litematica | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18463:auto-furnace | Error: Timeout 60000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+https://mcbuild.org/schematics/14339:medieval-tavern-and-cafe-2---113 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16024:the-wooden-manor-furnished | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/8891:panzer-kampfwagen-ii-ausf-fg-body | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17306:leniland-newworld-dwarf-magicians-factory | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/11374:minecraft-mansion-with-interior-design-and-outside-decorations | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17770:starship-t65-star-wars-vaisseau-t65 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12483:mcdonalds | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/8892:panzer-kampfwagen-ii-ausf-fg-turret | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17309:vrovona-castle-601 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16061:spanish-mansion-build-in-1165 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12490:wither-mob-farmsweeper-ii | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/11380:spawn-ball | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12495:catdrale | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16076:medium-medieval-church-4-chunks-minecraft-towny | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/9072:bks-basilica | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17403:temple-22 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17960:farm-redstone | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12535:air-gym-pixelmonpro | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/9154:islandtowers | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12543:fire-gym-pixelmonpro | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1609:medieval-house-3 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17421:starter-house-03 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17988:creeper-farm-by-schulkercraft-2300h | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12544:steel-gym-pixelmonpro | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16106:medieval-house-2 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17426:saras-dream-castle | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12549:tnt | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16115:the-blue-palace-furnished | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/14548:mcthings-scene-0300 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/11537:suburban-house-1 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/9583:assault-helicopter-body | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18528:-sandstone-mansion | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18092:pepe-the-frog-pixel-art | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/11538:suburban-house-2 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16133:belvedere-palace-in-warsaw | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/14595:dutch-palace-castle | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17446:barnacle-beans-manor | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12580:temple-cleste | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/9710:rem-ram-pixel-art | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18101:rosa-in-bikini-pokemon | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16146:mushroom-house | Error: Timeout 30000ms exceeded.
+=========================== logs ===========================
+"networkidle" event fired
+============================================================
+https://mcbuild.org/schematics/1459:dark-arena | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1258:minecraft-medievalnordic-style-house-pack | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17475:vienna-street---165 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/11584:lusgide-underwater-hall-v-20 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18536:lakehouse- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17478:vienna-street---468 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1462:animal-faces | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/11603:mid-game-mob-farm-drop-height | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1000:hmhs-britannic-sinking | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18537:iron-mans-mansion | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12651:iron-farm-8x8-version--113 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17479:vienna-street---569 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18538:classic-modern-house | Error: Timeout 60000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+https://mcbuild.org/schematics/1001:family-house-162 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18291:skyblock-1192-schematic | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17496:venom-spiderman-pixelart | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/11663:chess-and-checkers-arena | Error: Timeout 60000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+https://mcbuild.org/schematics/12676:- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18298:vertezzs-yacht-v2 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16324:modern-house-101 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18540:great-library- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/10024:modern-appartments-building-non-furnished | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/11665:huge-house- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/14756:castle-mini-dungeon-loot-and-spawners | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16325:templo-de-las-profecas | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18543:red-dragon- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17547:vienna-street---872 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/14762:japaness-temple | Error: Timeout 60000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+https://mcbuild.org/schematics/18434:desert-temple | Error: Timeout 60000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+https://mcbuild.org/schematics/17548:vienna-street---973 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18483:iron-farm-119 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1269:large-spleef-arena-5-floors | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17553:vienna-street---1276 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/10102:we-are-number-one-song-short-version | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18551:santos-cathedral- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/14825:cookie-d | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1968:skyblock-normal | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17563:villager-inntavern | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16377:small-modern-house-1 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18554:lighthouse- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/10148:suzuki-wagon-r-first-generation | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/11834:allianz-new-york-reduxed | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1969:skyblock-easy | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12785:juletog-for-addexio-d-chrismas-train | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1014:monstersxp-trap | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18557:-clock-tower | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16384:super-modern-house-furnished | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1980:modern-redstone-house-172 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17593:dracula-castlevania-castle | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12817:jule-hus-stort | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18560:medieval-tavern-inn- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1018:victorian-house-2-162 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1493:hostile-mob-canyons | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1639:la-arena-de-mato | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/2375:minecraft-spaceshuttle-version-13 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18562:counter-strike-dedust- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12852:addexio-gingercastle | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/2453:floating-spawn-196x196- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17626:blackwhite-house-modern | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/11969:6-wheeler-truck-1 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1494:medieval-house-1-by-iedgy | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1642:super-mario-8-bit-style-jumping | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17628:starterhousefarmhouse-mc-1181 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/11971:6-wheeler-truck-2 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/2559:skywars-44 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12947:addexio-chistmas-train | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16442:bridge-archway | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17629:modern-house-with-pool-mc118x | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1197:lost-temple-small | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15043:skeleton-crypt-dungeon | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/2566:skywars-88-jungle | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18570:autofarm- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/11984:6-wheeler-cargo-truck-2 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/102:nyan-cat | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12969:sakul1900tool | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17658:dragon-yin-yang-pixel-art-84x84 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/11986:billionaires-row-mega-mansion | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16458:medieval-town-collection-1-silo-barn | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17659:bull-terrier-meme-pixel-art-30x30 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/119:modern-house-14 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17671:classical-house-1 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17672:classical-house-1 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/18587:furnished-yacht- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13050:-100 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15127:anime-special-ps-its-big | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13063:huge-pixel-artanime | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15129:perperunas-wishing-well | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17696:house-from-revenge-song | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13068:flying-ship-sky-wanderer | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15138:nvidia-geforce-rtx-3080-tuf-gaming-asus-tuf-series | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13071:illustrious-azur-lane | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16497:modern-house-107 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13085:spawn-mdieval-village- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1775:hide-and-seek-map-halloween-special | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16498:modern-house-108 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16499:modern-house-109 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/17779:house-1 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16500:modern-house-110 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16501:modern-house-111 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1313:trap-for-curious | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16528:modern-house-112-map-schematic | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16531:modern-house-113 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13213:- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13214:- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13215:- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13216:- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16588:gold-xp-farm | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13233:theatre | Error: Timeout 60000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+https://mcbuild.org/schematics/13358:mario-cappy | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13436:factory-20 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1346:netherspawn-park | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13480:st-pancras-old-church | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13508: | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13517:smallmedium-castle | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13518:modern-police-station-unfurnished | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1352:house-1 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12483:mcdonalds | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15188:quartz-arena-1162only | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12490:wither-mob-farmsweeper-ii | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15190:modular-hallway-schematics-ver-ii-with-ver-i-included | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12495:catdrale | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15195:st-basils-cathedral | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12535:air-gym-pixelmonpro | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15224:arena-uhcfinal-188 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12543:fire-gym-pixelmonpro | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12544:steel-gym-pixelmonpro | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12549:tnt | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15375:arena-shell-shockers-map-116 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12580:temple-cleste | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15383:medieval-shop | Error: Timeout 60000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+https://mcbuild.org/schematics/1258:minecraft-medievalnordic-style-house-pack | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12651:iron-farm-8x8-version--113 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15617:billionaires-row-the-golden-coast | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12676:- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12694:no-smoking-mapart | Error: Timeout 60000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+https://mcbuild.org/schematics/1569:redstone-mine-bombbreakdiamonds | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1269:large-spleef-arena-5-floors | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15725:guitar-1164 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12785:juletog-for-addexio-d-chrismas-train | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15728:the-pit-halo-map-116 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12817:jule-hus-stort | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15732:iss-by-mrkenry-1122 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15761:sailboats-model2 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12852:addexio-gingercastle | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15865:house-for-survival-unfurnished | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12947:addexio-chistmas-train | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15883:quartz-nether-house | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/12969:sakul1900tool | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15885:quartz-nether-palace | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15901:olve-garden-salt-lake-city-utah | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13050:-100 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/15915:1164-compact-f-15-vanila | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13063:huge-pixel-artanime | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13068:flying-ship-sky-wanderer | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13071:illustrious-azur-lane | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13085:spawn-mdieval-village- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16024:the-wooden-manor-furnished | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16061:spanish-mansion-build-in-1165 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16076:medium-medieval-church-4-chunks-minecraft-towny | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1313:trap-for-curious | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1609:medieval-house-3 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16106:medieval-house-2 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13213:- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16115:the-blue-palace-furnished | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13214:- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13215:- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16133:belvedere-palace-in-warsaw | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13216:- | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16146:mushroom-house | Error: Timeout 60000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+https://mcbuild.org/schematics/16261:apartment-house | Error: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - performing click action
+    - click action done
+    - waiting for scheduled navigations to finish
+
+https://mcbuild.org/schematics/13358:mario-cappy | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16324:modern-house-101 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16325:templo-de-las-profecas | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13436:factory-20 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16377:small-modern-house-1 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16384:super-modern-house-furnished | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1639:la-arena-de-mato | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1346:netherspawn-park | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13480:st-pancras-old-church | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1642:super-mario-8-bit-style-jumping | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16442:bridge-archway | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13508: | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16458:medieval-town-collection-1-silo-barn | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13517:smallmedium-castle | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/13518:modern-police-station-unfurnished | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/1352:house-1 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16497:modern-house-107 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16498:modern-house-108 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16499:modern-house-109 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16500:modern-house-110 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16501:modern-house-111 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16528:modern-house-112-map-schematic | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16531:modern-house-113 | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+
+https://mcbuild.org/schematics/16588:gold-xp-farm | Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("a.btn.btn-success[href*='/download/schematic=']") to be visible
+

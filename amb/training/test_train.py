@@ -11,7 +11,7 @@ from amb.models import BuilderTransformer
 from amb.training.train import train
 
 dataset = AMBDataset(
-    schematic_dir=str(project_root / 'datasets' / 'organized' / 'house'),
+    schematic_dir=str(project_root / "datasets" / "organized" / "house"),
     max_size=16,
     max_structures=50,  # Need more attempts since many are skipped
     augment_rotations=False,
@@ -37,6 +37,6 @@ train(
     val_loader=None,
     epochs=100,  # Overfit
     lr=1e-3,
-    checkpoint_dir=str(project_root / 'checkpoints' / 'overfit_test'),
-    device='cuda',
+    checkpoint_dir=str(project_root / "checkpoints" / "overfit_test"),
+    device="cuda",
 )
